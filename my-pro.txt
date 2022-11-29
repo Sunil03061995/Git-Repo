@@ -1,3 +1,4 @@
 It includes functions of my project. 1
 from local disk
 today is my day
+staged one check
