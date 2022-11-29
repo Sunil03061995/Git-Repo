@@ -1,2 +1,2 @@
 It includes functions of my project. 1
-from local disk
+from local diskss
